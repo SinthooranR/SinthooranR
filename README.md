@@ -4,9 +4,9 @@
 **SinthooranR/SinthooranR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on person test prjects using ReactJS and evenutally some big group projects
+- 🔭 I’m currently working on personal test prjects using ReactJS and evenutally some big group projects
 - 🌱 I’m currently learning ReactJS and some Android Studio
-- 👯 I’m looking to collaborate on any web or mobile development projects
+- 👯 I’m looking forward to collaborate on any web or mobile development projects
 - 🤔 I’m looking for help with proper Website designs and other proper coding practices
 - 💬 Ask me about neat project ideas, anime, video games, etc..
 - 📫 How to reach me: My LinkedIn placed below
